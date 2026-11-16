@@ -1,0 +1,17 @@
+# Python environment and caches
+.healthvenv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+
+# Local indexes and downloaded models
+.chroma/
+models/
+
+# Editor settings
+.vscode/
+EOF
