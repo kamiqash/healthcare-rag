@@ -1,4 +1,4 @@
-# ROG
+# RAG
 RAG (Retrieval-Augmented Generation) is a method where an AI retrieves relevant information from external sources and uses it to generate an answer.
 
 # Healthcare Document RAG Assistant
